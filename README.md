@@ -15,118 +15,93 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi — I'm Vedant Mishra
-**Embedded Systems Engineer | Firmware Developer | ECE (B.Tech)**  
-📍 India · Open to Internship & Placement Opportunities
-
----
-
-<!-- Typing effect (dynamic title) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAA&width=700&lines=Embedded+Systems+Engineer;Firmware+Developer;ESP32+%7C+STM32+%7C+LVGL+%7C+FreeRTOS;C+%2B%2B+%7C+C+%7C+Embedded+C;IoT+and+Real-Time+System+Designer)](https://git.io/typing-svg)
-
----
-
-## 💡 About Me
-🎓 **B.Tech in Electronics and Communication Engineering**  
-💻 Passionate about **Embedded Systems, Real-time Firmware, and Hardware–Software Integration**  
-🔬 Currently working on **ESP32 + LVGL-based GUI Control Systems**  
-🚀 Focused on building **efficient, low-power embedded applications**
-
-> “I believe firmware is where software meets the real world.”
-
----
-
-## 🧩 Technical Skills
-
-**Languages:** C, C++, Embedded C, Verilog, Python  
-**Microcontrollers:** 8051, 8086, STM32, ESP32  
-**Protocols:** UART, SPI, I2C, ADC, PWM, Timers  
-**RTOS & OS:** FreeRTOS, Bare-metal Firmware  
-**Tools:** Keil, STM32CubeIDE, PlatformIO, Proteus, ESP-IDF  
-**Graphics/UI:** LVGL, SquareLine Studio, Arduino GFX  
-**Version Control:** Git, GitHub, GitHub Actions  
-**Debugging:** JTAG, Serial Monitor, Logic Analyzer  
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 [LVGL-based Display Control Panel (ESP32)](https://github.com/VedantMishra-dev/LVGL_based_Display_Control_Panel)
-Touch-enabled dashboard using **LVGL + SquareLine Studio**; integrates **MCP4725 DAC** & custom UI widgets for system control.
-
----
-
-### 🔹 [Embedded Washing Machine Controller](https://github.com/VedantMishra-dev/Washing-Machine-Project-)
-Real-time embedded controller implementing wash cycles, motor control, and display UI simulation.
-
----
-
-### 🔹 UART CRC Verilog Module
-Efficient UART transmitter/receiver with **CRC error-checking** in Verilog for robust communication.  
-*(Repository coming soon...)*
-
----
-
-## 📊 GitHub Stats and Insights
+<h1 align="center">Hi 👋, I'm Vedant Mishra</h1>
+<h3 align="center">🚀 Embedded Systems Developer | LVGL, ESP32 & Verilog Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedantMishra-dev&show_icons=true&theme=radical&count_private=true" alt="Vedant's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantMishra-dev&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VedantMishra-dev&theme=radical&hide_border=false" alt="GitHub Streak" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VedantMishra-dev&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VedantMishra-dev&theme=onedark&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=700&lines=Embedded+Systems+Engineer;LVGL+%7C+ESP32+%7C+Verilog+%7C+FreeRTOS;Turning+Hardware+Ideas+into+Reality;Code.+Design.+Debug.+Repeat." alt="Typing SVG" />
 </p>
 
 ---
 
-## 🗂️ Profile Overview
-
-| Metric | Details |
-|--------|----------|
-| 🧰 Total Public Repositories | ![Repos](https://img.shields.io/github/repos/vedantmishra-dev?style=flat&label=Repos) |
-| 🕐 Member Since | ![GitHub User](https://img.shields.io/github/join-date/vedantmishra-dev?label=Joined&style=flat) |
-| 📦 Total Commits (Public) | ![Commits](https://badges.pufler.dev/commits/all/vedantmishra-dev) |
-| ⭐ Most Used Language | ![Languages](https://img.shields.io/github/languages/top/vedantmishra-dev/LVGL_based_Display_Control_Panel) |
+### 🧠 About Me
+💻 Passionate about building embedded systems that bridge hardware and software.  
+⚙️ Skilled in **C, C++, Embedded C, Python, and Verilog HDL**.  
+🧩 Experienced with **ESP32, STM32, 8051, LVGL, FreeRTOS, Proteus, and SquareLine Studio**.  
+🎯 Focused on **real-world IoT + display UI control projects**.  
+🌱 Currently exploring **advanced GUI design and RTOS scheduling techniques**.  
 
 ---
 
-## 🧠 Latest Public Projects (Auto Updates)
+## ⚡ Featured Projects
 
-[![Vedant’s Latest Projects](https://github-readme-stats.vercel.app/api/pin/?username=VedantMishra-dev&repo=LVGL_based_Display_Control_Panel&theme=tokyonight)](https://github.com/VedantMishra-dev/LVGL_based_Display_Control_Panel)
-[![Vedant’s Latest Projects](https://github-readme-stats.vercel.app/api/pin/?username=VedantMishra-dev&repo=Washing-Machine-Project-&theme=tokyonight)](https://github.com/VedantMishra-dev/Washing-Machine-Project-)
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vedant%20Mishra-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedantmishra)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Gmail](https://img.shields.io/badge/Email-vmishra%40gmail.com-red?logo=gmail&logoColor=white)](mailto:vmishra@gmail.com)
+### 🔹 **LVGL-based Display Control Panel (ESP32)**
+Touch-enabled dashboard using LVGL + SquareLine Studio; integrates DAC (MCP4725) & custom widgets.  
+📂 [Repository Link](https://github.com/VedantMishra-dev/LVGL_based_Display_Control_Panel)
 
 ---
 
-## 💬 Fun Facts
-
-- ⚡ I’ve built embedded UIs that control real hardware through ESP32.
-- 🧭 I enjoy debugging complex logic and optimizing low-level code.
-- 📘 I’m currently exploring **Device Drivers & Embedded Linux**.
+### 🔹 **Embedded Washing Machine Controller**
+Realtime embedded controller implementing user cycles, display UI, and motor control. (Simulation + firmware)  
+📂 [Repository Link](https://github.com/VedantMishra-dev/Washing-Machine-Project-)
 
 ---
 
-## 🧩 Quote I Live By
-> *"Embedded systems aren’t just code — they’re intelligence made physical."*
+### 🔹 **UART CRC Verilog Module**
+Efficient UART transmitter/receiver with CRC error-checking in Verilog for robust communication.  
+📂 [Repository Link](https://github.com/VedantMishra-dev/uart-crc-verilog)
 
 ---
 
-<p align="right">🛠️ Last updated automatically — © <span id="year"></span> Vedant Mishra</p>
+## 🧾 Profile Overview
 
-<script>
-  document.getElementById("year").innerText = new Date().getFullYear();
-</script>
+<table align="center">
+<tr>
+<td><b>📂 Total Public Repositories</b></td>
+<td><img src="https://badges.pufler.dev/repos/VedantMishra-dev?style=for-the-badge&color=0e75b6" /></td>
+</tr>
 
+<tr>
+<td><b>🕓 Member Since</b></td>
+<td><img src="https://badges.pufler.dev/years/VedantMishra-dev?style=for-the-badge&color=0e75b6" /></td>
+</tr>
+
+<tr>
+<td><b>🧮 Total Commits (Public)</b></td>
+<td><img src="https://badges.pufler.dev/commits/yearly/VedantMishra-dev?style=for-the-badge&color=0e75b6" /></td>
+</tr>
+
+<tr>
+<td><b>💬 Most Used Languages</b></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantMishra-dev&langs_count=8&layout=compact&theme=github_dark&hide_border=true" /></td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VedantMishra-dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VedantMishra-dev&theme=github-dark-blue&hide_border=true" height="180em" />
+</p>
+
+---
+
+## 💻 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,embeddedc,verilog,arduino,raspberrypi,linux,git,vscode" />
+</p>
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://github.com/VedantMishra-dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/vedantmishra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vedant@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+⭐ **“Engineering isn’t just about circuits — it’s about creating intelligence in motion.”**
