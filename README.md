@@ -21,95 +21,112 @@ Here are some ideas to get you started:
 
 ---
 
-<!-- Typing effect (dynamic) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ABF7F&width=650&lines=Embedded+Systems+Engineer;Firmware+%7C+C%2FC%2B%2B+%7C+Embedded+C;ESP32+%7C+STM32+%7C+8051+%7C+8086)](https://git.io/typing-svg)
+<!-- Typing effect (dynamic title) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAA&width=700&lines=Embedded+Systems+Engineer;Firmware+Developer;ESP32+%7C+STM32+%7C+LVGL+%7C+FreeRTOS;C+%2B%2B+%7C+C+%7C+Embedded+C;IoT+and+Real-Time+System+Designer)](https://git.io/typing-svg)
 
 ---
 
-## 🔭 What I do
-I design and implement firmware and embedded UIs for real-world devices — from bare-metal drivers to FreeRTOS tasks and display-driven user interfaces. I love turning hardware and sensors into meaningful software features and shipping reliable, resource-efficient code.
+## 💡 About Me
+🎓 **B.Tech in Electronics and Communication Engineering**  
+💻 Passionate about **Embedded Systems, Real-time Firmware, and Hardware–Software Integration**  
+🔬 Currently working on **ESP32 + LVGL-based GUI Control Systems**  
+🚀 Focused on building **efficient, low-power embedded applications**
 
-**Current focus:** ESP32 firmware + LVGL UI integration, device driver development, and placement-ready projects for embedded systems roles.
+> “I believe firmware is where software meets the real world.”
 
 ---
 
-## 🧰 Core Skills & Tools
+## 🧩 Technical Skills
 
-- **Languages:** C, C++, Embedded C, Verilog basics, Python (utility scripts)
-- **Microcontrollers & Platforms:** ESP32, STM32, 8051, 8086
-- **RTOS & Firmware:** FreeRTOS, bare-metal interrupts, timers, DMA
-- **Protocols & Peripherals:** UART, SPI, I2C, ADC, PWM
-- **Tools & IDEs:** Keil, STM32CubeIDE, PlatformIO, Proteus, ESP-IDF
-- **UI & Graphics:** LVGL, SquareLine Studio, Arduino GFX
-- **Version Control & Dev:** Git, GitHub Actions, Make/CMake
-- **Other:** Debugging (JTAG, serial), performance optimization, low-power design
+**Languages:** C, C++, Embedded C, Verilog, Python  
+**Microcontrollers:** 8051, 8086, STM32, ESP32  
+**Protocols:** UART, SPI, I2C, ADC, PWM, Timers  
+**RTOS & OS:** FreeRTOS, Bare-metal Firmware  
+**Tools:** Keil, STM32CubeIDE, PlatformIO, Proteus, ESP-IDF  
+**Graphics/UI:** LVGL, SquareLine Studio, Arduino GFX  
+**Version Control:** Git, GitHub, GitHub Actions  
+**Debugging:** JTAG, Serial Monitor, Logic Analyzer  
 
 ---
 
 ## 🚀 Featured Projects
-> Short, recruiter-friendly synopses — link to actual repos when available.
 
-- **LVGL-based Display Control Panel (ESP32)** — Touch-enabled dashboard using LVGL + SquareLine Studio; integrates DAC (MCP4725) & custom widgets.  
-  `Repository:` `[(https://github.com/VedantMishra-dev/LVGL_based_Display_Control_Panel)]`  
-
-- **Embedded Washing Machine Controller** — A realtime embedded controller implementing user cycles, display UI, and motor control. (Simulation + firmware).  
-  `Repository:` `[(https://github.com/VedantMishra-dev/Washing-Machine-Project-)]`
-  
-- **UART CRC Verilog Module** — Efficient UART transmitter/receiver with CRC error-checking in Verilog for robust comms.  
-  `Repository:` `your-repo-link`
-
-*(I recommend pinning 3 – 6 of your best repos on GitHub. Pinned projects appear beneath your profile README automatically.)*
+### 🔹 [LVGL-based Display Control Panel (ESP32)](https://github.com/VedantMishra-dev/LVGL_based_Display_Control_Panel)
+Touch-enabled dashboard using **LVGL + SquareLine Studio**; integrates **MCP4725 DAC** & custom UI widgets for system control.
 
 ---
 
-## 📈 Live GitHub Stats & Languages
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VEDANT_USERNAME&show_icons=true&theme=dark&count_private=true" alt="github stats" width="47%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VEDANT_USERNAME&layout=compact&theme=dark" alt="top languages" width="47%">
-</p>
+### 🔹 [Embedded Washing Machine Controller](https://github.com/VedantMishra-dev/Washing-Machine-Project-)
+Real-time embedded controller implementing wash cycles, motor control, and display UI simulation.
 
-<!-- Contribution streak -->
+---
+
+### 🔹 UART CRC Verilog Module
+Efficient UART transmitter/receiver with **CRC error-checking** in Verilog for robust communication.  
+*(Repository coming soon...)*
+
+---
+
+## 📊 GitHub Stats and Insights
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VEDANT_USERNAME&theme=gruvbox" alt="trophy" width="380"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=VedantMishra-dev&show_icons=true&theme=radical&count_private=true" alt="Vedant's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantMishra-dev&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VedantMishra-dev&theme=radical&hide_border=false" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VedantMishra-dev&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VedantMishra-dev&theme=onedark&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
 
-## 🔎 Latest Projects (auto-updating)
-This section is optionally auto-populated by a GitHub Action that calls GitHub's public API and injects your latest public repositories (titles + short descriptions + stars).  
-*(If you prefer manual control, remove this section and add a manual list.)*
+## 🗂️ Profile Overview
 
-<!-- START:AUTOGEN-LATEST-REPOS -->
-<!--
-  This block will be replaced automatically by the GitHub Action "regen-readme.yml"
-  If you don't run that action, replace manually with links to your top projects.
--->
-**Loading latest projects...**
-<!-- END:AUTOGEN-LATEST-REPOS -->
+| Metric | Details |
+|--------|----------|
+| 🧰 Total Public Repositories | ![Repos](https://img.shields.io/github/repos/vedantmishra-dev?style=flat&label=Repos) |
+| 🕐 Member Since | ![GitHub User](https://img.shields.io/github/join-date/vedantmishra-dev?label=Joined&style=flat) |
+| 📦 Total Commits (Public) | ![Commits](https://badges.pufler.dev/commits/all/vedantmishra-dev) |
+| ⭐ Most Used Language | ![Languages](https://img.shields.io/github/languages/top/vedantmishra-dev/LVGL_based_Display_Control_Panel) |
 
 ---
 
-## 📫 Contact & Links
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/vedant-mishra-7b5908374/))  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-30363d?logo=google-chrome&logoColor=white)](https://yourwebsite.com)  
-[![Gmail](https://img.shields.io/badge/Email-vmishra%40gmail.com-c14438?logo=gmail&logoColor=white)](mailto:rmvianrt9125@gmail.com)
+## 🧠 Latest Public Projects (Auto Updates)
+
+[![Vedant’s Latest Projects](https://github-readme-stats.vercel.app/api/pin/?username=VedantMishra-dev&repo=LVGL_based_Display_Control_Panel&theme=tokyonight)](https://github.com/VedantMishra-dev/LVGL_based_Display_Control_Panel)
+[![Vedant’s Latest Projects](https://github-readme-stats.vercel.app/api/pin/?username=VedantMishra-dev&repo=Washing-Machine-Project-&theme=tokyonight)](https://github.com/VedantMishra-dev/Washing-Machine-Project-)
 
 ---
 
-## 🎯 What I'm Looking For
-- Internship / fresher roles in embedded firmware, IoT, or firmware validation.
-- Mentorship on Embedded Linux and device drivers.
-- Collaboration on open-source embedded projects.
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vedant%20Mishra-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedantmishra)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Gmail](https://img.shields.io/badge/Email-vmishra%40gmail.com-red?logo=gmail&logoColor=white)](mailto:vmishra@gmail.com)
 
 ---
 
+## 💬 Fun Facts
 
-## 💬 Quick recruiter note
-I prefer concise technical discussions and whiteboard/problem solving. If you'd like to evaluate my coding or hardware design skills, I can provide short walkthroughs or demo videos of my projects on request.
+- ⚡ I’ve built embedded UIs that control real hardware through ESP32.
+- 🧭 I enjoy debugging complex logic and optimizing low-level code.
+- 📘 I’m currently exploring **Device Drivers & Embedded Linux**.
 
 ---
 
-*Thanks for visiting — if you like what you see, feel free to connect.*  
-<!-- Footer emoji and small personal tagline -->
-<p align="right">⚡️ Building reliable systems, one firmware byte at a time.</p>
+## 🧩 Quote I Live By
+> *"Embedded systems aren’t just code — they’re intelligence made physical."*
+
+---
+
+<p align="right">🛠️ Last updated automatically — © <span id="year"></span> Vedant Mishra</p>
+
+<script>
+  document.getElementById("year").innerText = new Date().getFullYear();
+</script>
 
