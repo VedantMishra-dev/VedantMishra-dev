@@ -49,12 +49,12 @@ I design and implement firmware and embedded UIs for real-world devices — from
 ## 🚀 Featured Projects
 > Short, recruiter-friendly synopses — link to actual repos when available.
 
-- **Embedded Washing Machine Controller** — A realtime embedded controller implementing user cycles, display UI, and motor control. (Simulation + firmware).  
-  `Repository:` `your-repo-link`  
-
 - **LVGL-based Display Control Panel (ESP32)** — Touch-enabled dashboard using LVGL + SquareLine Studio; integrates DAC (MCP4725) & custom widgets.  
-  `Repository:` `your-repo-link`  
+  `Repository:` `[your-repo-link](https://github.com/VedantMishra-dev/LVGL_based_Display_Control_Panel)`  
 
+- **Embedded Washing Machine Controller** — A realtime embedded controller implementing user cycles, display UI, and motor control. (Simulation + firmware).  
+  `Repository:` `[your-repo-link](https://github.com/VedantMishra-dev/Washing-Machine-Project-)`
+  
 - **UART CRC Verilog Module** — Efficient UART transmitter/receiver with CRC error-checking in Verilog for robust comms.  
   `Repository:` `your-repo-link`
 
@@ -90,9 +90,9 @@ This section is optionally auto-populated by a GitHub Action that calls GitHub's
 ---
 
 ## 📫 Contact & Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)  
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/vedant-mishra-7b5908374/))  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-30363d?logo=google-chrome&logoColor=white)](https://yourwebsite.com)  
-[![Gmail](https://img.shields.io/badge/Email-vmishra%40gmail.com-c14438?logo=gmail&logoColor=white)](mailto:vmishra@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-vmishra%40gmail.com-c14438?logo=gmail&logoColor=white)](mailto:rmvianrt9125@gmail.com)
 
 ---
 
@@ -103,12 +103,6 @@ This section is optionally auto-populated by a GitHub Action that calls GitHub's
 
 ---
 
-## 🧩 How to use this README & advanced options
-- Replace `VEDANT_USERNAME` with your GitHub username wherever present.
-- Add / link real project URLs under Featured Projects.
-- Optionally enable the GitHub Action `regen-readme.yml` that automatically fetches and updates the "Latest Projects" block (public repos only). The action and script are provided in this repo under `.github/workflows/` and `.github/scripts/`.
-
----
 
 ## 💬 Quick recruiter note
 I prefer concise technical discussions and whiteboard/problem solving. If you'd like to evaluate my coding or hardware design skills, I can provide short walkthroughs or demo videos of my projects on request.
