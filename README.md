@@ -50,10 +50,10 @@ I design and implement firmware and embedded UIs for real-world devices — from
 > Short, recruiter-friendly synopses — link to actual repos when available.
 
 - **LVGL-based Display Control Panel (ESP32)** — Touch-enabled dashboard using LVGL + SquareLine Studio; integrates DAC (MCP4725) & custom widgets.  
-  `Repository:` `(https://github.com/VedantMishra-dev/LVGL_based_Display_Control_Panel)`  
+  `Repository:` `[(https://github.com/VedantMishra-dev/LVGL_based_Display_Control_Panel)]`  
 
 - **Embedded Washing Machine Controller** — A realtime embedded controller implementing user cycles, display UI, and motor control. (Simulation + firmware).  
-  `Repository:` `(https://github.com/VedantMishra-dev/Washing-Machine-Project-)`
+  `Repository:` `[(https://github.com/VedantMishra-dev/Washing-Machine-Project-)]`
   
 - **UART CRC Verilog Module** — Efficient UART transmitter/receiver with CRC error-checking in Verilog for robust comms.  
   `Repository:` `your-repo-link`
