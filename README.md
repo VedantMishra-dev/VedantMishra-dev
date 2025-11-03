@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## ⚡ Featured Projects
 
-### 🔹 **X-RAY Control Panel (ESP32)**
+### 🔹 **X-RAY Control Panel**
 Touch-enabled dashboard using LVGL + SquareLine Studio; integrates DAC (MCP4725) & custom widgets.  
 📂 [Repository Link](https://github.com/VedantMishra-dev/Xray-Control-Panel)
 
