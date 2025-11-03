@@ -49,7 +49,7 @@ Realtime embedded controller implementing user cycles, display UI, and motor con
 
 ### 🔹 **UART CRC Verilog Module**
 Efficient UART transmitter/receiver with CRC error-checking in Verilog for robust communication.  
-📂 [Repository Link](https://github.com/VedantMishra-dev/uart-crc-verilog)
+📂 [Repository Link](https://github.com/VedantMishra-dev/UART-Protocol-Controller)
 
 ---
 
