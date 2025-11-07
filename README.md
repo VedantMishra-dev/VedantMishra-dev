@@ -10,18 +10,18 @@
 ## 🧭 About Me
 
 I’m an **Embedded Systems Engineer** passionate about designing intelligent hardware–software ecosystems that bring automation, precision, and interactivity to life.  
-From writing **bare-metal firmware** to crafting **real-time GUIs with LVGL**, I love working across the full embedded stack — from bit-level hardware control to user-facing interfaces.
+From writing **bare-metal firmware** to crafting **real-time GUIs with LVGL**, I enjoy working across the full embedded stack — from low-level drivers to user-facing interfaces.
 
 I specialize in:  
 - **Firmware development** on microcontrollers like **ESP32, STM32, and 8051**  
-- **LVGL-based GUI Design** (using SquareLine Studio + FreeRTOS integration)  
-- **Digital design in Verilog HDL** (UART, CRC, FSMs, and hardware simulation)  
-- **IoT communication protocols** (UART, SPI, I²C, MQTT, and Firebase integration)  
+- **LVGL-based GUI Design** (SquareLine Studio + FreeRTOS integration)  
+- **Digital design in Verilog HDL** (UART, CRC, FSMs, and simulation)  
+- **IoT communication protocols** (UART, SPI, I²C, CAN, BLE, WiFi)  
 
 🧩 Currently exploring:  
-- Advanced **RTOS task scheduling** and **inter-task communication**  
-- **Embedded Linux device drivers** and real-time performance optimization  
-- **Edge AI integration** with low-power microcontrollers  
+- Advanced **RTOS scheduling and synchronization**  
+- **Embedded Linux drivers and BSPs**  
+- **Performance-optimized LVGL display architecture**  
 
 > 💡 “Engineering begins where logic meets the limits of hardware.”
 
@@ -30,38 +30,56 @@ I specialize in:
 ## 🔥 Featured Projects
 
 ### 🧠 X-RAY Control Panel — *Smart Touch Interface for Medical Hardware*
-A full-fledged **touch-enabled control system** built with **LVGL** and **SquareLine Studio**, designed for precise X-Ray machine interfacing.  
-🧩 Integrates **MCP4725 DAC**, custom widgets, and responsive LVGL dashboards for real-time parameter control.  
+A full-fledged **touch-enabled control system** built using **LVGL** and **SquareLine Studio**, designed for precision X-Ray machine interfacing.  
+🧩 Features **custom LVGL widgets**, **DAC (MCP4725)** integration, and real-time display updates.  
 🧰 *Tech Stack:* ESP32 · LVGL · SquareLine Studio · I²C · DAC  
-📂 [Explore the Code →](https://github.com/VedantMishra-dev/Xray-Control-Panel)  
+📂 [Explore the Code →](https://github.com/VedantMishra-dev/Xray-Control-Panel)
 
 ---
 
 ### ⚙️ Embedded Washing Machine Controller — *Real-Time Appliance Firmware*
-An **RTOS-based controller** that manages washing modes, timers, and display UI in real-time.  
-Built from scratch to simulate industrial washing logic and UI flow. Designed for both **simulation and deployment**.  
+An **RTOS-based embedded controller** that manages washing modes, timers, and a GUI-driven control system.  
+Implements real-time task switching, user cycle logic, and safety interlocks.  
 🧰 *Tech Stack:* C · FreeRTOS · STM32 · GUI Design · Motor Control  
-📂 [Repository Link →](https://github.com/VedantMishra-dev/Washing-Machine-Project-)  
+📂 [Repository Link →](https://github.com/VedantMishra-dev/Washing-Machine-Project-)
 
 ---
 
 ### 🔐 UART Protocol with CRC — *Error-Protected Communication in Verilog*
-Designed a **robust UART transceiver** with built-in **CRC verification** for reliable serial communication between hardware blocks.  
-Implements **start/stop detection**, **frame validation**, and **Hamming-based error correction** for enhanced noise immunity.  
+A **robust UART transceiver** with integrated **CRC error detection** for reliable serial data transfer.  
+Implements **start-stop framing**, **frame validation**, and **Hamming-based correction** logic.  
 🧰 *Tech Stack:* Verilog HDL · Testbench Simulation · FPGA Ready  
-📂 [Repository Link →](https://github.com/VedantMishra-dev/UART-Protocol-Controller)  
+📂 [Repository Link →](https://github.com/VedantMishra-dev/UART-Protocol-Controller)
 
 ---
 
 ### 🚦 Smart Accident Auto-Detection System — *IoT + Edge Sensing*
-An IoT-based accident detection system using **accelerometer-based crash detection**, **ESP32-CAM photo capture**, and **Firebase cloud integration** for instant alerts and traffic rerouting.  
-Incorporates **black box-style data logging** on SD card for local evidence storage.  
+An IoT-based system that detects vehicle crashes using **accelerometer data** and triggers **real-time alerts** via **Firebase Cloud**.  
+Also captures images using **ESP32-CAM**, logs data locally on SD card (black box), and helps divert traffic efficiently.  
 🧰 *Tech Stack:* ESP32 · MPU6050 · Firebase · SD Card Logging · Embedded C  
-📂 *Coming Soon* 🚧  
+📂 *Coming Soon* 🚧
 
 ---
 
-## 💻 Tools & Technologies
+## 🧰 Tools & Technologies
+
+### ⚙️ **Embedded Software & Languages**
+C · C++ · Embedded C · Python · Verilog · Assembly (8051/ARM) · FreeRTOS · Embedded Linux · Bash  
+
+### 🧩 **Microcontrollers & Platforms**
+ESP32 · STM32 · Arduino · Raspberry Pi · 8051 · PIC · AVR · MSP430 · PlatformIO  
+
+### 🧠 **Hardware Design & Simulation Tools**
+Proteus · KiCad · Autodesk Eagle · Multisim · LTspice · Xilinx Vivado · Quartus · MATLAB/Simulink  
+
+### 🌐 **Communication Protocols**
+UART · SPI · I²C · CAN · BLE · WiFi · SD Card · PWM · ADC/DAC · GPIO  
+
+### 🖥️ **GUI & Visualization**
+LVGL · SquareLine Studio · TouchGFX · TFT_eSPI · OLED/LCD Drivers  
+
+### 🧪 **Debugging & Development Tools**
+VS Code · STM32CubeIDE · Arduino IDE · Keil uVision · MPLAB X · Git · Linux CLI · Serial Monitor  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,embeddedc,verilog,arduino,raspberrypi,linux,git,vscode,github,freertos" />
@@ -82,7 +100,7 @@ Incorporates **black box-style data logging** on SD card for local evidence stor
 
 ---
 
-## 🧩 GitHub Highlights
+## 🏆 GitHub Highlights
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VedantMishra-dev&theme=tokyonight&no-frame=true&row=1&column=6" />
@@ -91,10 +109,10 @@ Incorporates **black box-style data logging** on SD card for local evidence stor
 ---
 
 ## 🧠 What I’m Learning Next
-- 🔹 Real-time GUI architectures with LVGL + FreeRTOS integration  
-- 🔹 STM32 peripheral driver development (HAL vs. LL layers)  
-- 🔹 Embedded Linux BSPs and cross-compilation  
-- 🔹 IoT Cloud connectivity (MQTT, AWS IoT Core)  
+- 🔹 Real-time GUI architectures with LVGL + FreeRTOS  
+- 🔹 STM32 low-level driver development  
+- 🔹 Embedded Linux kernel modules  
+- 🔹 Advanced UART communication & hardware abstraction layers  
 
 ---
 
